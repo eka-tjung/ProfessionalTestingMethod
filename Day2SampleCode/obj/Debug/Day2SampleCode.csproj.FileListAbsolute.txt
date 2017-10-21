@@ -1,0 +1,5 @@
+C:\Users\etjung\Desktop\Professional Testing Methods - Fall 2017\Day2SampleCode\bin\Debug\Day2SampleCode.exe.config
+C:\Users\etjung\Desktop\Professional Testing Methods - Fall 2017\Day2SampleCode\bin\Debug\Day2SampleCode.exe
+C:\Users\etjung\Desktop\Professional Testing Methods - Fall 2017\Day2SampleCode\bin\Debug\Day2SampleCode.pdb
+C:\Users\etjung\Desktop\Professional Testing Methods - Fall 2017\Day2SampleCode\obj\Debug\Day2SampleCode.exe
+C:\Users\etjung\Desktop\Professional Testing Methods - Fall 2017\Day2SampleCode\obj\Debug\Day2SampleCode.pdb

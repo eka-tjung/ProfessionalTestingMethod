@@ -1,3 +1,4 @@
+cls
 echo %~dp0
 SET batchDir=%~dp0
 echo %batchDir%

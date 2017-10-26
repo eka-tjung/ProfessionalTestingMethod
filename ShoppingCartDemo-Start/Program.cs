@@ -261,11 +261,8 @@ namespace ShoppingCartDemo
         /// </summary>
         static void DisplaySummary()
         {
-            int subtotal = GetSubtotal();
-            double tax = (double)(subtotal) * (0.095);
-            Console.WriteLine("Subtotal: ${0}", subtotal);
-            Console.WriteLine("Tax (9.5%): ${0}", tax);
-            Console.WriteLine("Total: ${0}", subtotal + tax);
+            Console.WriteLine("Checkout functionality has not been implemented");
+            Console.WriteLine("Please implement me when you have a chance");
         }
     }
 }

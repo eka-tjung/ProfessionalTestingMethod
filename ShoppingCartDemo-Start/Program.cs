@@ -30,7 +30,7 @@ namespace ShoppingCartDemo
                 userInput = GetPurchaseOption();
 
                 // TODO1: Uncomment to be able to respond to user input
-                // RespondToMenu(userInput);
+                RespondToMenu(userInput);
             } while (userInput != 4);
 
             // Display the summary of the transaction

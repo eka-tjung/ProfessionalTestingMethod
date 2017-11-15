@@ -1,0 +1,10 @@
+C:\Users\Hansel\Desktop\BCC\Professional Testing Methods - Autumn 2014\Day5Example\bin\Debug\Day5Example.dll
+C:\Users\Hansel\Desktop\BCC\Professional Testing Methods - Autumn 2014\Day5Example\bin\Debug\Day5Example.pdb
+C:\Users\Hansel\Desktop\BCC\Professional Testing Methods - Autumn 2014\Day5Example\obj\Debug\Day5Example.csprojResolveAssemblyReference.cache
+C:\Users\Hansel\Desktop\BCC\Professional Testing Methods - Autumn 2014\Day5Example\obj\Debug\Day5Example.dll
+C:\Users\Hansel\Desktop\BCC\Professional Testing Methods - Autumn 2014\Day5Example\obj\Debug\Day5Example.pdb
+C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\bin\Debug\Day5Example.dll
+C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\bin\Debug\Day5Example.pdb
+C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.csprojResolveAssemblyReference.cache
+C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.dll
+C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.pdb

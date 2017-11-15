@@ -10,3 +10,9 @@ C:\class\ProfessionalTestingMethod\ShoppingCartDemo-Start\bin\Debug\ShoppingCart
 C:\class\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.csprojResolveAssemblyReference.cache
 C:\class\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.exe
 C:\class\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.pdb
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe.config
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.exe
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.pdb
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.exe
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\bin\Debug\ShoppingCartDemo.pdb
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\ShoppingCartDemo-Start\obj\Debug\ShoppingCartDemo.csprojResolveAssemblyReference.cache

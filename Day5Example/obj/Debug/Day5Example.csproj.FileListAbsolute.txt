@@ -8,3 +8,8 @@ C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Examp
 C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.csprojResolveAssemblyReference.cache
 C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.dll
 C:\Users\etjung\Desktop\Class\Professional Testing Methods - Fall 2017\Day5Example\obj\Debug\Day5Example.pdb
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\Day5Example\bin\Debug\Day5Example.dll
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\Day5Example\bin\Debug\Day5Example.pdb
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\Day5Example\obj\Debug\Day5Example.csprojResolveAssemblyReference.cache
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\Day5Example\obj\Debug\Day5Example.dll
+C:\Users\eka.tjung\Desktop\git\eka\ProfessionalTestingMethod\Day5Example\obj\Debug\Day5Example.pdb
